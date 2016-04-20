@@ -1,0 +1,14 @@
+org\mule\modules\checkweather\generated\adapters\CheckWeatherConnectorProcessAdapter.class
+org\mule\modules\checkweather\generated\config\CheckWeatherConnectorConnectorConfigConfigDefinitionParser.class
+org\mule\modules\checkweather\generated\adapters\CheckWeatherConnectorProcessAdapter$1.class
+org\mule\modules\checkweather\generated\adapters\CheckWeatherConnectorConnectorConfigWsdlProviderAdapter.class
+org\mule\modules\checkweather\generated\config\CheckWeatherNamespaceHandler.class
+org\mule\modules\checkweather\generated\adapters\CheckWeatherConnectorLifecycleInjectionAdapter.class
+org\mule\modules\checkweather\generated\agents\DefaultSplashScreenAgent.class
+org\mule\modules\checkweather\generated\adapters\CheckWeatherConnectorMetadataAdapter.class
+org\mule\modules\checkweather\generated\devkit\SplashScreenAgent.class
+org\mule\modules\checkweather\generated\adapters\CheckWeatherConnectorCapabilitiesAdapter.class
+org\mule\modules\checkweather\config\ConnectorConfig.class
+org\mule\modules\checkweather\CheckWeatherConnector.class
+org\mule\modules\checkweather\generated\adapter\PoolManager.class
+org\mule\tooling\ui\contribution\CheckWeatherActivator.class
